@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.nav_image {
+    height: 80px;
+}
