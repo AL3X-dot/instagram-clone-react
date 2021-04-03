@@ -1,0 +1,9 @@
+.post_upload {
+    margin: 0 auto;
+    width: 35vw;
+}
+
+progress {
+    width: 35vw;
+    margin-bottom: 10px;
+}

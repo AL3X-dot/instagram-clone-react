@@ -14,5 +14,16 @@
 
 .signup_form img {
     width: 100px;
-    height: 50px
+    height: 50px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.post_upload {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
 }
